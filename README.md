@@ -31,17 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
 
-<div align="center">
-
-![Samadhini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadhiniperera&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&bg_color=0d1117&border_color=ff69b4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhiniperera&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samadhiniperera&theme=radical&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&border=FF69B4)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
